@@ -1,2 +1,3 @@
 # Hotel_demand_ML
-على الله ان شاء الله 
+ 
+a machine learning project for a hotel booking booking system 

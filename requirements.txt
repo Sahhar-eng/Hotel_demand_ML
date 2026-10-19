@@ -1,0 +1,35 @@
+
+# Data Processing
+numpy
+pandas
+scipy
+
+# Visualization and EDA
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Feature Engineering and Selection
+feature-engine
+category-encoders
+
+# Model Evaluation and Interpretation
+shap
+
+# Jupyter Notebooks
+jupyterlab
+ipykernel
+
+# Model Saving
+joblib
+
+# Utilities
+tqdm
+openpyxl

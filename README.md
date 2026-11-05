@@ -1,6 +1,6 @@
 # Hotel_demand_ML
  
-a machine learning project for a hotel booking booking system 
+a machine learning project for a hotel booking booking system. 
 github url : https://github.com/Sahhar-eng/Hotel_demand_ML.git
 ## Classification workflow
 
